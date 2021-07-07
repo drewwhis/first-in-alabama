@@ -5,3 +5,6 @@
 *.jpeg
 *.gif
 *.tiff
+
+# Ignore the email template file.
+template.md
