@@ -1,5 +1,55 @@
 # *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Challenge Results
 
+## Alabama Championship
+
+### Robot Game Scores
+
+| Team Number  | Team Name                                        | High Score | Round 1 | Round 2 | Round 3 |
+| ------------ | ------------------------------------------------ | ---------- | ------- | ------- | ------- |
+| 1687         | Robo-Dogs                                        |            |         |         |         |
+| 14738        | NFP                                              |            |         |         |         |
+| 16965        | Electro-Lights                                   |            |         |         |         |
+| 24610        | Fast Photons                                     |            |         |         |         |
+| 39377        | Revolutionary Robots                             |            |         |         |         |
+| 41104        | Decatur Middle Robotics - SEMA                   |            |         |         |         |
+| 45611        | Cool Coders                                      |            |         |         |         |
+| 46057        | Bot Tribe                                        |            |         |         |         |
+| 47303        | Master Builders 1                                |            |         |         |         |
+| 47694        | MSE Robo-Coders                                  |            |         |         |         |
+| 47827        | Endeavor 1                                       |            |         |         |         |
+| 47896        | Technology Pirates                               |            |         |         |         |
+| 51569        | Blue Bananas                                     |            |         |         |         |
+| 52195        | Ctrl + Alt + Compete                             |            |         |         |         |
+| 52196        | Poggineers                                       |            |         |         |         |
+| 52197        | Shark Attack                                     |            |         |         |         |
+| 52198        | Tiger's Blood                                    |            |         |         |         |
+| 52907        | Gear Girls 256                                   |            |         |         |         |
+| 53920        | Brick Busters                                    |            |         |         |         |
+| 55964        | Say Watt                                         |            |         |         |         |
+| 56398        | Robowarriors                                     |            |         |         |         |  
+| 56576        | Space Penguins -Boys & Girls Clubs -James A Lane |            |         |         |         |
+| 57079        | MCES Robo-Crew                                   |            |         |         |         |
+| 57864        | Madison Robots                                   |            |         |         |         |
+
+
+### Award Winners
+
+- **Outstanding Volunteer Award** 
+- **Coach/Mentor Award** 
+- **Core Values Award** 
+- **Innovation Project Award**
+- **Robot Design Award**
+- **Robot Performance Award**
+- **Breakthrough Award**
+- **Engineering Excellence Award**
+- **Rising All-Star Award**
+- **Motivate Award**
+- **Champion's Award Finalist**
+- **Champion's Award Finalist**
+- **Champion's Award Finalist**
+- **Champion's Award Winner**
+
+
 ## Qualifiers
 
 ### HCMS Qualifier
@@ -124,7 +174,7 @@
 - **Robot Design Award** - 47694 - MSE Robo-Coders
 - **Robot Performance Award** - 55964 - Say Watt (High Score: 340)
 - **Breakthrough Award** - 57079 - MCES Robo-Crew
-- **Engineering Excellence** - 1687 - Robo-Dogs
+- **Engineering Excellence Award** - 1687 - Robo-Dogs
 - **Champion's Award** - 55964 - Say Watt
 
 
@@ -143,3 +193,40 @@
 - 46057 - Bot Tribe
 - 47694 - MSE Robo-Coders
 - 59286 - AJHS Robotics
+
+
+### Gigawatts Qualifier
+
+#### Robot Game Scores
+
+| Team Number  | Team Name                        | High Score | Round 1 | Round 2 | Round 3 |
+| ------------ | -------------------------------- | ---------- | ------- | ------- | ------- |
+| 51569        | Blue Bananas                     | 300        | 255     | 240     | 300     |
+| 45611        | Cool Coders                      | 215        |  80     | 215     |  20     |
+| 41104        | Decatur Middle Robotics - SEMA   | 215        | 165     | 175     | 215     |
+| 47303        | Master Builders 1                | 195        | 135     | 195     | 140     |
+| 59390        | Columbia Challengers             | 170        | 170     | 170     | 110     |
+| 59014        | Columbia Astros                  | 170        | 170     | 165     | 155     |
+
+
+#### Award Winners
+
+- **Outstanding Volunteer Award** - Brian Pappas
+- **Coach/Mentor Award** - Beth Hellebrand (41104 - Decatur Middle Robotics - SEMA)
+- **Core Values Award** - 47303 - Master Builders 1
+- **Innovation Project Award** - 45611 - Cool Coders
+- **Robot Design Award** - 41104 - Decatur Middle Robotics - SEMA
+- **Robot Performance Award** - 51569 - Blue Bananas (High Score: 300)
+- **Champion's Award** - 51569 - Blue Bananas
+
+
+#### Advancing Teams
+
+- 41104 - Decatur Middle Robotics - SEMA
+- 47303 - Master Builders 1
+- 51569 - Blue Bananas
+
+
+#### Wild Card Teams
+
+- 45611 - Cool Coders
