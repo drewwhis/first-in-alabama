@@ -10,13 +10,12 @@
 | 14738        | NFP                                              |            |         |         |         |
 | 16965        | Electro-Lights                                   |            |         |         |         |
 | 24610        | Fast Photons                                     |            |         |         |         |
+| 30014        | Strikin' Lightnin'                               |            |         |         |         |
 | 39377        | Revolutionary Robots                             |            |         |         |         |
 | 41104        | Decatur Middle Robotics - SEMA                   |            |         |         |         |
 | 45611        | Cool Coders                                      |            |         |         |         |
-| 46057        | Bot Tribe                                        |            |         |         |         |
 | 47303        | Master Builders 1                                |            |         |         |         |
 | 47694        | MSE Robo-Coders                                  |            |         |         |         |
-| 47827        | Endeavor 1                                       |            |         |         |         |
 | 47896        | Technology Pirates                               |            |         |         |         |
 | 51569        | Blue Bananas                                     |            |         |         |         |
 | 52195        | Ctrl + Alt + Compete                             |            |         |         |         |
@@ -30,6 +29,7 @@
 | 56576        | Space Penguins -Boys & Girls Clubs -James A Lane |            |         |         |         |
 | 57079        | MCES Robo-Crew                                   |            |         |         |         |
 | 57864        | Madison Robots                                   |            |         |         |         |
+| 59286        | AJHS Robotics                                    |            |         |         |         |
 
 
 ### Award Winners
