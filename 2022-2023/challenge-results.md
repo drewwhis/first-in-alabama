@@ -6,48 +6,53 @@
 
 | Team Number  | Team Name                                        | High Score | Round 1 | Round 2 | Round 3 |
 | ------------ | ------------------------------------------------ | ---------- | ------- | ------- | ------- |
-| 1687         | Robo-Dogs                                        |            |         |         |         |
-| 14738        | NFP                                              |            |         |         |         |
-| 16965        | Electro-Lights                                   |            |         |         |         |
-| 24610        | Fast Photons                                     |            |         |         |         |
-| 30014        | Strikin' Lightnin'                               |            |         |         |         |
-| 39377        | Revolutionary Robots                             |            |         |         |         |
-| 41104        | Decatur Middle Robotics - SEMA                   |            |         |         |         |
-| 45611        | Cool Coders                                      |            |         |         |         |
-| 47303        | Master Builders 1                                |            |         |         |         |
-| 47694        | MSE Robo-Coders                                  |            |         |         |         |
-| 47896        | Technology Pirates                               |            |         |         |         |
-| 51569        | Blue Bananas                                     |            |         |         |         |
-| 52195        | Ctrl + Alt + Compete                             |            |         |         |         |
-| 52196        | Poggineers                                       |            |         |         |         |
-| 52197        | Shark Attack                                     |            |         |         |         |
-| 52198        | Tiger's Blood                                    |            |         |         |         |
-| 52907        | Gear Girls 256                                   |            |         |         |         |
-| 53920        | Brick Busters                                    |            |         |         |         |
-| 55964        | Say Watt                                         |            |         |         |         |
-| 56398        | Robowarriors                                     |            |         |         |         |  
-| 56576        | Space Penguins -Boys & Girls Clubs -James A Lane |            |         |         |         |
-| 57079        | MCES Robo-Crew                                   |            |         |         |         |
-| 57864        | Madison Robots                                   |            |         |         |         |
-| 59286        | AJHS Robotics                                    |            |         |         |         |
-
+| 55964        | Say Watt                                         | 365        | 280     | 365     | 320     |
+| 51569        | Blue Bananas                                     | 310        | 260     | 310     | 265     |
+| 53920        | Brick Busters                                    | 285        | 225     | 280     | 285     |
+| 52195        | Ctrl+Alt+Compete	                              | 260        | 245     | 260     | 220     |
+| 57864        | Madison Robots	                                  | 250        | 230     | 245     | 250     |
+| 39377        | Revolutionary Robots                             | 235        | 180     | 235     | 235     |
+| 41104        | Decatur Middle Robotics - SEMA                   | 230        | 200     | 230     | 185     |
+| 45611        | Cool Coders                                      | 230        | 220     | 230     | 165     |
+| 56398        | Robowarriors                                     | 230        | 230     | 205     | 180     |
+| 57079        | MCES Robo-Crew                                   | 230        | 230     | 190     | 230     |
+| 52196        | Poggineers                                       | 220        | 220     | 160     | 220     |
+| 47694        | MSE Robo-Coders                                  | 200        | 200     | 145     | 200     |
+| 52198        | Tiger's Blood                                    | 195        |  80     | 180     | 195     |
+| 30014        | Strikin' Lightnin'                               | 190        | 190     | 160     | 155     |
+| 16035        | CyberTooth Tigers                                | 185        | 185     | 150     | 170     |
+| 24610        | Fast Photons                                     | 185        | 115     | 120     | 185     |
+| 47303        | Master Builders                                  | 185        | 155     | 185     | 175     |
+|  1687        | Robo-Dogs                                        | 180        |  70     | 180     | 180     |
+| 16965        | Electro-Lights                                   | 180        | 130     | 180     | 145     |
+| 47896        | Technology Pirates                               | 180        | 160     | 180     | 115     |
+| 14738        | NFP                                              | 170        | 170     | 170     | 155     |
+| 52197        | Shark Attack                                     | 170        | 170     | 160     | 165     |
+| 56576        | Space Penguins                                   | 170        | 145     | 115     | 170     |
+| 52907        | Gear Girls 256                                   | 135        | 130     | 135     | 130     |
 
 ### Award Winners
 
-- **Outstanding Volunteer Award** 
-- **Coach/Mentor Award** 
-- **Core Values Award** 
-- **Innovation Project Award**
-- **Robot Design Award**
-- **Robot Performance Award**
-- **Breakthrough Award**
-- **Engineering Excellence Award**
-- **Rising All-Star Award**
-- **Motivate Award**
-- **Champion's Award Finalist**
-- **Champion's Award Finalist**
-- **Champion's Award Finalist**
-- **Champion's Award Winner**
+- **Outstanding Volunteer Award** - FRC 7428 (The Gigawatts) Senior Members
+  - Jordan Binkley
+  - Kaleigh Jones
+  - Clark McClung
+  - Cain Nappier
+  - Laurel Shugart
+  - John Riley Thompson
+  - Ryan Traylor
+- **Coach/Mentor Award** - Lisa Fountain (39377 - Revolutionary Robots)
+- **Core Values Award** - 52197 - Shark Attack
+- **Innovation Project Award** - 41104 - Decatur Middle Robotics - SEMA
+- **Robot Design Award** - 52907 - Gear Girls 256
+- **Robot Performance Award** - 55964 - Say Watt (High Score: 365)
+- **Breakthrough Award** - 52195 - Ctrl+Alt+Compete
+- **Engineering Excellence Award** - 16965 - Electro-Lights
+- **Rising All-Star Award** - 45611 - Cool Coders
+- **Motivate Award** - 57079 - MCES Robo-Crew
+- **Champion's Award Finalist** - 24610 - Fast Photons
+- **Champion's Award Finalist** - 51569 - Blue Bananas
+- **Champion's Award Finalist / Winner** - 55964 - Say Watt
 
 
 ## Qualifiers
