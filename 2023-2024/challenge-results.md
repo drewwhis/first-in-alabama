@@ -2,6 +2,50 @@
 
 ## Qualifiers
 
+### Port City Qualifier
+
+#### Robot Game Scores
+
+| Team Number  | Team Name                        | High Score | Round 1 | Round 2 | Round 3 |
+| ------------ | -------------------------------- | ---------- | ------- | ------- | ------- |
+| 30015        | Mobile Monarchs                  | 230        | 230     | 200     | 215     |
+| 16035        | Mobile Mystics                   | 230        | 175     | 230     | 180     |
+| 30014        | Hey, Dudes                       | 220        | 185     | 220     | 210     |
+| 52198        | Tigersharks                      | 215        | 160     | 215     | 140     |
+| 52195        | MasterBots                       | 210        | 195     | 210     | 170     |
+| 52197        | Techno Tigers                    | 210        | 190     | 180     | 210     |
+| 52196        | Cyber Circle                     | 195        | 165     | 195     | 165     |
+| 14738        | Codiacs                          | 180        | 140     | 170     | 180     |
+| 62485        | Patriots2                        | 125        | 115     | 110     | 125     |
+| 63121        | Sting Bots                       | 125        |  85     | 125     |  20     |
+
+
+#### Award Winners
+
+- **Outstanding Volunteer Award** - Lisa Counselman
+- **Coach/Mentor Award** - Shannon Boykin (30015 - Mobile Monarchs)
+- **Core Values Award** - 52196 - Cyber Circle
+- **Innovation Project Award** - 16035 - Mobile Mystics
+- **Robot Design Award** - 63121 - Sting Bots
+- **Robot Performance Award** - 30015 - Mobile Monarchs (High Score: 230)
+- **Champion's Award** - 30014 - Hey, Dudes
+
+
+#### Advancing Teams
+
+- 16035 – Mobile Mystics
+- 30014 - Hey, Dudes
+- 30015 – Mobile Monarchs
+- 52196 – Cyber Circle
+- 52198 – Tigersharks
+
+
+#### Wild Card Teams
+
+- 62485 – Patriots2
+- 63121 – Sting Bots
+
+
 ### UAH Society of Women Engineers Qualifier
 
 #### Robot Game Scores
