@@ -2,6 +2,54 @@
 
 ## Qualifiers
 
+### AAA Qualifier
+
+#### Robot Game Scores
+
+| Team Number  | Team Name                        | High Score | Round 1 | Round 2 | Round 3 |
+| ------------ | -------------------------------- | ---------- | ------- | ------- | ------- |
+| 24661        | Madison Mosaics                  | 320        |  245    | 300     | 320     |
+| 60912        | Van Gears                        | 315        |  315    | 275     | 245     |
+| 41105        | Off Track                        | 300        |  290    | 290     | 300     |
+| 59925        | Art Bots                         | 285        |  190    | 280     | 285     |
+| 59286        | AJHS Robotics                    | 285        |  265    | 285     | 240     |
+| 41104        | Cine Lubali                      | 265        |  235    | 265     | 220     |
+| 60979        | Mic Drop                         | 240        |  240    | 230     | 190     |
+| 56398        | Robowarriors                     | 230        |  195    | 230     | 195     |
+| 56576        | Space Penguins                   | 215        |  170    | 160     | 215     |
+| 61806        | Electric Coders                  | 195        |  190    | 195     | 160     |
+| 62545        | CTRL+S’d by Grace                | 190        |  175    | 190     | 155     |
+| 62019        | Madison Renaissance Girls        | 180        |  180    | 130     | 140     |
+
+
+#### Award Winners
+
+- **Outstanding Volunteer Award** - Lindsey Carroll 
+- **Coach/Mentor Award** - Beth Hellebrand (41104 - Cine Lubali, 41105 - Off Track)
+- **Core Values Award** - 24661 - Madison Mosaics
+- **Innovation Project Award** - 62545 - CTRL+S’d by Grace
+- **Robot Design Award** - 60912 - Van Gears
+- **Robot Performance Award** - 24661 - Madison Mosaics (High Score: 320)
+- **Engineering Excellence Award** - 59925 - Art Bots
+- **Champion's Award** - 41105 - Off Track
+
+
+#### Advancing Teams
+
+- 24661 – Madison Mosaics
+- 41105 - Off Track
+- 56398 – Robowarriors
+- 59925 – Art Bots
+- 60912 – Van Gears
+- 62545 – CTRL+S’d by Grace
+
+
+#### Wild Card Teams
+
+- 41104 - Cine Lubali
+- 62019 - Madison Renaissance Girls
+
+
 ### Port City Qualifier
 
 #### Robot Game Scores
