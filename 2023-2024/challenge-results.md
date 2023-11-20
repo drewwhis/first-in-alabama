@@ -2,6 +2,53 @@
 
 ## Qualifiers
 
+### HCMS STEM Qualifier
+
+#### Robot Game Scores
+
+| Team Number  | Team Name                        | High Score | Round 1 | Round 2 | Round 3 |
+| ------------ | -------------------------------- | ---------- | ------- | ------- | ------- |
+| 55964        | Say Watt!?!                      | 360        | 310     | 360     | 355     |
+| 61630        | Like Minded Weirdos              | 320        | 190     | 250     | 320     |
+| 47896        | Technology Pirates               | 320        | 320     |  70     | 125     |
+| 62934        | Robo Elite                       | 225        | 215     | 210     | 225     |
+| 45611        | The Golden Bricks                | 225        | 225     | 170     | 215     |
+| 60774        | BrickByters                      | 165        | 105     | 165     |  75     |
+| 29294        | MSE Robo-Coders                  | 150        |  85     |  90     | 150     |
+| 37269        | Rockin Robos                     | 130        |  85     | 130     | 120     |
+| 39377        | Revolutionary Robots             | 125        | 125     | 120     |  95     |
+| 60957        | CCA Falcon Bots                  | 115        |  90     | 115     |  95     |
+| 61480        | Westminster Wildcats Red         |  95        |  80     |  50     |  95     |
+| 61481        | Westminster Wildcats Grey        |  75        |  75     |  60     |  65     |
+
+
+#### Award Winners
+
+- **Outstanding Volunteer Award** - Brian Pappas (AV Wizard)
+- **Coach/Mentor Award** - Mrs. Knowlton and Mr. Knowlton (47896 - Technology Pirates)
+- **Core Values Award** - 62934 - Robo Elite
+- **Innovation Project Award** - 60774 - BrickByters
+- **Robot Design Award** - 61630 - Like Minded Weirdos
+- **Robot Performance Award** - 55964 - Say Watt!?! (High Score: 360)
+- **Champion's Award** - 55964 - Say Watt!?!
+
+
+#### Advancing Teams
+
+- 39377 - Revolutionary Robots
+- 45611 - The Golden Bricks
+- 55964 - Say Watt!?!
+- 60774 - BrickByters
+- 61630 - Like Minded Weirdos
+- 62934 - Robo Elite
+
+
+#### Wild Card Teams
+
+- 37269 - Rockin Robos 
+- 47896 - Technology Pirates
+
+
 ### AAA Qualifier
 
 #### Robot Game Scores
