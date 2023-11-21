@@ -1,5 +1,37 @@
 # *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Challenge Results
 
+## Alabama Championship
+
+### Robot Game Scores
+
+| Team Number  | Team Name                        | High Score | Round 1 | Round 2 | Round 3 |
+| ------------ | -------------------------------- | ---------- | ------- | ------- | ------- |
+|  5495        | LEGO Hornets                     |            |         |         |         |
+| 16035        | Mobile Mystics                   |            |         |         |         |
+| 16965        | Electro-LIGHTS                   |            |         |         |         |
+| 24610        | Velocity Voltage                 |            |         |         |         |
+| 24661        | Madison Mosaics                  |            |         |         |         |
+| 30014        | Hey, Dudes                       |            |         |         |         |
+| 30015        | Mobile Monarchs                  |            |         |         |         |
+| 39377        | Revolutionary Robots             |            |         |         |         |
+| 41105        | Off Track                        |            |         |         |         |
+| 45611        | The Golden Bricks                |            |         |         |         |
+| 46057        | Bot Tribe                        |            |         |         |         |
+| 47896        | Technology Pirates               |            |         |         |         |
+| 52196        | Cyber Circle                     |            |         |         |         |
+| 52198        | Tigersharks                      |            |         |         |         |
+| 55964        | Say Watt!?!                      |            |         |         |         |
+| 56398        | Robowarriors                     |            |         |         |         |
+| 57948        | Jemhoc                           |            |         |         |         |
+| 59925        | Art Bots                         |            |         |         |         |
+| 60774        | BrickByters                      |            |         |         |         |
+| 60912        | Van Gears                        |            |         |         |         |
+| 61630        | Like Minded Weirdos              |            |         |         |         |
+| 62485        | Patriots2                        |            |         |         |         |
+| 62545        | CTRL+S’d by Grace                |            |         |         |         |
+| 62934        | Robo Elite                       |            |         |         |         |
+
+
 ## Qualifiers
 
 ### HCMS STEM Qualifier
