@@ -9,7 +9,7 @@
 | 55964        | Say Watt                                         | 365        | 280     | 365     | 320     |
 | 51569        | Blue Bananas                                     | 310        | 260     | 310     | 265     |
 | 53920        | Brick Busters                                    | 285        | 225     | 280     | 285     |
-| 52195        | Ctrl+Alt+Compete	                              | 260        | 245     | 260     | 220     |
+| 52195        | Ctrl+Alt+Compete	                                | 260        | 245     | 260     | 220     |
 | 57864        | Madison Robots	                                  | 250        | 230     | 245     | 250     |
 | 39377        | Revolutionary Robots                             | 235        | 180     | 235     | 235     |
 | 41104        | Decatur Middle Robotics - SEMA                   | 230        | 200     | 230     | 185     |

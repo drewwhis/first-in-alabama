@@ -6,31 +6,46 @@
 
 | Team Number  | Team Name                        | High Score | Round 1 | Round 2 | Round 3 |
 | ------------ | -------------------------------- | ---------- | ------- | ------- | ------- |
-|  5495        | LEGO Hornets                     |            |         |         |         |
-| 16035        | Mobile Mystics                   |            |         |         |         |
-| 16965        | Electro-LIGHTS                   |            |         |         |         |
-| 24610        | Velocity Voltage                 |            |         |         |         |
-| 24661        | Madison Mosaics                  |            |         |         |         |
-| 30014        | Hey, Dudes                       |            |         |         |         |
-| 30015        | Mobile Monarchs                  |            |         |         |         |
-| 39377        | Revolutionary Robots             |            |         |         |         |
-| 41105        | Off Track                        |            |         |         |         |
-| 45611        | The Golden Bricks                |            |         |         |         |
-| 46057        | Bot Tribe                        |            |         |         |         |
-| 47896        | Technology Pirates               |            |         |         |         |
-| 52196        | Cyber Circle                     |            |         |         |         |
-| 52198        | Tigersharks                      |            |         |         |         |
-| 55964        | Say Watt!?!                      |            |         |         |         |
-| 56398        | Robowarriors                     |            |         |         |         |
-| 57948        | Jemhoc                           |            |         |         |         |
-| 59925        | Art Bots                         |            |         |         |         |
-| 60774        | BrickByters                      |            |         |         |         |
-| 60912        | Van Gears                        |            |         |         |         |
-| 61630        | Like Minded Weirdos              |            |         |         |         |
-| 62485        | Patriots2                        |            |         |         |         |
-| 62545        | CTRL+S’d by Grace                |            |         |         |         |
-| 62934        | Robo Elite                       |            |         |         |         |
+| 55964        | Say Watt!?!                      | 420        | 270     | 345     | 420     |
+| 24661        | Madison Mosaics                  | 390        | 360     | 370     | 390     |
+| 60912        | Van Gears                        | 345        | 220     | 345     | 250     |
+| 41105        | Off Track                        | 330        | 270     | 330     | 245     |
+| 59925        | Art Bots                         | 320        | 295     | 230     | 320     |
+| 30015        | Mobile Monarchs                  | 320        | 220     | 120     | 320     |
+| 56398        | Robowarriors                     | 310        | 240     | 310     | 310     |
+| 45611        | The Golden Bricks                | 305        | 305     | 150     | 250     |
+| 61630        | Like Minded Weirdos              | 300        | 290     | 270     | 300     |
+| 30014        | Hey, Dudes                       | 270        | 265     | 270     | 240     |
+| 24610        | Velocity Voltage                 | 270        | 270     | 255     | 260     |
+| 46057        | Bot Tribe                        | 270        | 220     | 220     | 270     |
+| 62934        | Robo Elite                       | 265        | 265     | 240     | 220     |
+| 47896        | Technology Pirates               | 260        | 185     | 240     | 260     |
+| 57948        | Jemhoc                           | 260        | 220     | 260     | 215     |
+| 62545        | CTRL+S’d by Grace                | 250        | 165     | 130     | 250     |
+| 16035        | Mobile Mystics                   | 240        | 240     | 185     | 230     |
+| 16965        | Electro-LIGHTS                   | 230        | 205     | 225     | 230     |
+| 52198        | Tigersharks                      | 220        | 200     | 205     | 220     |
+|  5495        | LEGO Hornets                     | 180        | 170     | 160     | 180     |
+| 39377        | Revolutionary Robots             | 160        | 105     | 145     | 160     |
+| 60774        | BrickByters                      | 150        |  85     | 150     | 145     |
+| 62485        | Patriots2                        | 135        | 135     | 105     |  95     |
 
+
+### Award Winners
+
+- **Outstanding Volunteer Award** - Steven Ishida
+- **Coach/Mentor Award** - Coach and Mr. Knowlton (47896 - Technology Pirates)
+- **Core Values Award** - 24610 - Velocity Voltage
+- **Innovation Project Award** - 56398 - Robowarriors
+- **Robot Design Award** - 52198 - Tigersharks
+- **Robot Performance Award** - 55964 - Say Watt!?! (High Score: 420)
+- **Engineering Excellence Award** - 30014 - Hey, Dudes
+- **Breakthrough Award** - 62485 - Patriots2
+- **Rising All-Star Award** - 61630 - Like Minded Weirdos
+- **Motivate Award** - 16965 - Electro-LIGHTS
+- **Champion's Award Finalist** - 24661 - Madison Mosaics
+- **Champion's Award Finalist** - 55964 - Say Watt!?!
+- **Champion's Award Finalist / Winner** - 59925 - Art Bots
 
 ## Qualifiers
 
