@@ -6,7 +6,7 @@ Since we have wrapped up qualifier registration, I wanted to send a final update
 
 If you are no longer affiliated with any team but still receiving these messages, you may need to invite replacements or retire from your teams.
 
-We have instructions on how to navigate this process posted [here in our FAQ](https://github.com/drewwhis/alabama-first-lego-league/wiki/Leaving-a-Team).
+We have instructions on how to navigate this process posted [here in our FAQ](https://github.com/drewwhis/first-in-alabama/wiki/Leaving-a-Team).
 
 
 ## *FIRST*<sup>&reg;</sup> in Alabama Events
@@ -51,7 +51,7 @@ We have the following events scheduled for the 2019-2020 *FIRST*<sup>&reg;</sup>
   - von Braun Center, Huntsville
   - April 4, 2020
 
-We have information about how to become a volunteer [posted here](https://github.com/drewwhis/alabama-first-lego-league/wiki/Becoming-an-Event-Volunteer). If you are interested and have questions about volunteering, let us know! Our events would not be possible without the support of volunteers.
+We have information about how to become a volunteer [posted here](https://github.com/drewwhis/first-in-alabama/wiki/Becoming-an-Event-Volunteer). If you are interested and have questions about volunteering, let us know! Our events would not be possible without the support of volunteers.
 
 
 ## Next Season

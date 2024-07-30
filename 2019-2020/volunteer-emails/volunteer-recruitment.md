@@ -40,7 +40,7 @@ Most of our events are one-day commitments, and we have a variety of roles to fi
   - ***FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Jr.** Alabama Expo
     - von Braun Center, Huntsville, AL
 
-Please let me know if your organization would be interested in these opportunities! Anyone interested in volunteering can register for an event and complete the background check and any required trainings/certifications by following [this guide](https://github.com/drewwhis/alabama-first-lego-league/wiki/Becoming-an-Event-Volunteer).
+Please let me know if your organization would be interested in these opportunities! Anyone interested in volunteering can register for an event and complete the background check and any required trainings/certifications by following [this guide](https://github.com/drewwhis/first-in-alabama/wiki/Becoming-an-Event-Volunteer).
 
 Thank you for your time, and we hope to see you at an event this season!
 

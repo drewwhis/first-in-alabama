@@ -33,7 +33,7 @@ Every team at a qualifier participates in judging. There are three **separate** 
 
 Every team at a qualifier participates in Robot Design judging.
 
-The team will have four minutes to deliver the Robot Design Executive Summary (RDES) to the judges. The RDES is meant to briefly outline the key elements of the team's robot and design process and allow the team to focus on the most important aspects. The RDES is not meant to be as extensive or exhaustive as the Innovation Project (for comparision) but should give judges the information the team wants them to have. A written copy of the RDES is **not** required. For an overview of the RDES, see [this document](https://github.com/drewwhis/alabama-first-lego-league/blob/main/2019-2020/fll/robot-design-executive-summary.md).
+The team will have four minutes to deliver the Robot Design Executive Summary (RDES) to the judges. The RDES is meant to briefly outline the key elements of the team's robot and design process and allow the team to focus on the most important aspects. The RDES is not meant to be as extensive or exhaustive as the Innovation Project (for comparision) but should give judges the information the team wants them to have. A written copy of the RDES is **not** required. For an overview of the RDES, see [this document](https://github.com/drewwhis/first-in-alabama/blob/main/2019-2020/fll/robot-design-executive-summary.md).
 
 Following the delivery of the Robot Design Executive Summary, the team will have a six-minute Question-and-Answer period with the judges. Bear in mind that Robot Design judging will focus more on the engineering and design of the robot than its performance in Competition Matches.
 

@@ -18,12 +18,12 @@ If you have any questions about the double qualifier, please contact FLL@FIRSTin
 
 ## What Do I Do Now?
 
-Make sure you review the judging, awards, and advancement guidelines for this season. We have compiled the expectations for our region [at this page](https://github.com/drewwhis/alabama-first-lego-league/blob/main/2019-2020/fll/judging-and-advancement.md).
+Make sure you review the judging, awards, and advancement guidelines for this season. We have compiled the expectations for our region [at this page](https://github.com/drewwhis/first-in-alabama/blob/main/2019-2020/fll/judging-and-advancement.md).
 
 
 ## Teams
 
-These teams will be attending the *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Skyscraper Qualifier. If you need to update the name of a team, please do so as soon as possible (instructions [here](https://github.com/drewwhis/alabama-first-lego-league/wiki/Changing-a-Team-Name)).
+These teams will be attending the *FIRST*<sup>&reg;</sup> LEGO<sup>&reg;</sup> League Skyscraper Qualifier. If you need to update the name of a team, please do so as soon as possible (instructions [here](https://github.com/drewwhis/first-in-alabama/wiki/Changing-a-Team-Name)).
 
 | Team Number | Team Name |
 | ----------- | --------- |

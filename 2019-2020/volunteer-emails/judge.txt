@@ -2,7 +2,7 @@ Hello, and thank you for volunteering your time with us!
 
 Our events would not be possible without the support of volunteers like you. We appreciate your time, and so do the students participating.
 
-As a judge, you have required trainings and certifications. All judges must complete Judge Training and Certification. Judges must also complete a separate training and certification for their judging area (Robot Design, Core Values, or Innovation Project). To access the materials, you can follow our guide (https://github.com/drewwhis/alabama-first-lego-league/wiki/Volunteer-Role-Certification).
+As a judge, you have required trainings and certifications. All judges must complete Judge Training and Certification. Judges must also complete a separate training and certification for their judging area (Robot Design, Core Values, or Innovation Project). To access the materials, you can follow our guide (https://github.com/drewwhis/first-in-alabama/wiki/Volunteer-Role-Certification).
 
 Robot Design Judges may wish to familiarize themselves with the robot game (https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-game-guide-a4.pdf) and challenge updates (https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-challenge-updates.pdf).
 
