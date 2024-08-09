@@ -15,6 +15,7 @@
     "Codiacs",
     "Counselman",
     "DUPLO",
+    "gafirst",
     "HCMS",
     "Hellebrand",
     "Ishida",
@@ -36,6 +37,7 @@
     "POWERPLAY",
     "Preferencing",
     "Quietdale",
+    "REEFSCAPE",
     "regrant",
     "Robo",
     "Robos",
@@ -47,6 +49,7 @@
     "Scoresheets",
     "SEMA",
     "Shugart",
+    "Smokies",
     "Sparkman",
     "Strikin",
     "Strutzenberg",
@@ -56,7 +59,8 @@
     "Traylor",
     "TVA",
     "TVA's",
-    "TVA’s"
+    "TVA’s",
+    "waitlist"
   ],
   "cSpell.enabled": true
 }
